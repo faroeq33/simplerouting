@@ -1,0 +1,13 @@
+{
+    "name": "faroeq33/phproutertest",
+    "authors": [
+        {
+            "name": "Faroeq",
+            "email": "alves_1044@hotmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.2.0.6",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
